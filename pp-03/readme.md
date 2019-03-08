@@ -23,16 +23,16 @@ unless you’ve already begun a repository on a group member’s computer. **Tha
 repository for Project 2.**
 
 3. List the names of your group members here:
-
+  Mina Zhang, Dasha Day Hisoler, Kelly, Denisse
 4. Copy and paste the URL for your group’s GitHub organization here:
-
+  https://github.com/itmd-362-sadwek
 5. Copy and paste the URL for your group’s shared repository for Project Two here:
-
+  https://github.com/itmd-362-sadwek/project-2
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
 Write the URL for your personal fork of the repository here:
-
+  https://github.com/stivet7/project-2
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
 `git remote add group` followed by the URL for your group’s repository.
