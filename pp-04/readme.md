@@ -25,11 +25,12 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://material.io/design/layout/spacing-methods.html
+* Describe how you implemented that guideline in your sketch: On mobile view the buttons and
+overall layout of the form page 
+
+* HCI Guideline Two (URL): https://material.io/design/layout/density.html
 * Describe how you implemented that guideline in your sketch:
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
-
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://material.io/design/color/color-usage.html
 * Describe how you implemented that guideline in your sketch:
