@@ -11,18 +11,18 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://en.ryte.com/magazine/usability-checklist-for-successful-websites
+2. https://drpete.co/?topic=25-point-website-usability-checklist
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Main navigation is easily identifiable
+2. Major headings are clear & descriptive
+3. Styles & colors are consistent
+4. Mobile website is easily accessible
+5. JavaScript effects are used sensibly
+6. Font size and spacing is easy to read
+7. Adequate text-to-background contrast
+8. Clean uncluttered content layout
+9. Number of buttons/links is reasonable
+10. Retains user input between pages
